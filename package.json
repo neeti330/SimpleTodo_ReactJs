@@ -39,6 +39,10 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.0"
+    "@types/node": "^20.11.15",
+    "@types/react": "^18.2.51",
+    "@types/react-dom": "^18.2.18",
+    "gh-pages": "^3.2.0",
+    "typescript": "4.4.3"
   }
 }
